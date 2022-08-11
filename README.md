@@ -48,23 +48,41 @@
 <br>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Martin023)
+
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Martin023&style=flat-square&color=blue" alt=""/>
+</div>
+</div>
+
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Martin023&theme=vision-friendly-dark)](https://git.io/streak-stats)
+</div>
+
+<a href="https://github.com/Martin023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin023&show_icons=true&theme=vision-friendly-dark" width="50%" />
+</a> &nbsp: &nbsp:
+<a href="https://github.com/Martin023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin023&layout=compact&theme=vision-friendly-dark"/>
+</a>
+
 
 ### Connect With Me:
 
 <br>
 <div> 
  <a href="mailto:mainamartin023@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="https://www.linkedin.com/in/maina-martin/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+  
+ <a href="https://twitter.com/martin_maina023" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
  <a href="(https://www.linkedin.com/)" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
  
 </div>
 
 
-<!-- ### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-Skills: VUE JS / REACT / JS / HTML / CSS
-- 🔭 I’m currently working on this page.  -->
 
 
