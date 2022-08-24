@@ -79,7 +79,7 @@
  <a href="https://twitter.com/martin_maina023" target="blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <a href="(https://www.linkedin.com/)" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+ 
  
 </div>
 
