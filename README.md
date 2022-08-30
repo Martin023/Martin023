@@ -15,9 +15,9 @@
 - 👯 I’m looking to collaborate on Django projects, Android-java, and Angular or React projects.
 - 🤔 I’m looking for help with advanced Javascript concepts.
 - 💬 Ask me about :snake: python programming language.
-- 📫 How to reach me:
+- 📫 How to reach me: Twitter , LinkedIn
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Comedy is therapy
 
 
 ### Languages and Frameworks:
@@ -56,16 +56,10 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Martin023&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Martin023&theme=vision-friendly-dark)](https://git.io/streak-stats)
 </div>
 
-<a href="https://github.com/Martin023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin023&show_icons=true&theme=vision-friendly-dark" width="50%" />
-</a> &nbsp: &nbsp:
-<a href="https://github.com/Martin023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin023&layout=compact&theme=vision-friendly-dark"/>
-</a>
-
+ 
 
 ### Connect With Me:
 
