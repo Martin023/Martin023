@@ -10,8 +10,8 @@
 ## A Fullstack developer.
 
 
-- 🔭 I’m currently working on react
-- 🌱 I’m currently learning Node
+- 🔭 I’m currently working on Microsoft Navison Erp customisation 
+- 🌱 I’m currently learning Node,C#
 
 - 👯 I’m looking to collaborate on Django projects, Android-java, and Angular or React projects.
 - 🤔 I’m looking for help with advanced Javascript concepts.
