@@ -11,11 +11,11 @@
 
 
 - 🔭 I’m currently working on Microsoft Navison Erp customisation 
-- 🌱 I’m currently learning Node,C#
+- 🌱 I’m currently learning .NET and DevOps engineering.
 
 - 👯 I’m looking to collaborate on Django projects, Android-java, and Angular or React projects.
 - 🤔 I’m looking for help with advanced Javascript concepts.
-- 💬 Ask me about :snake: python programming language.
+- 💬 Ask me about :snake: python programming language, ERP's.
 - 📫 How to reach me: Twitter , LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Comedy is therapy
