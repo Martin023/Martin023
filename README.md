@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on Business Central Customisation and development, Django projects, Android-java, and Angular or React projects.
 - 🤔 I’m looking for help with advanced Javascript concepts.
-- 💬 Ask me about :snake: python programming language, ERP's.
+- 💬 Ask me about :snake: AL,python programming language, ERP's.
 - 📫 How to reach me: Twitter , LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Comedy is therapy.
