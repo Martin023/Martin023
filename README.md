@@ -14,11 +14,11 @@
 - 🌱 I’m currently learning Cloud and DevOps engineering.
 
 - 👯 I’m looking to collaborate on Business Central Customisation and development, Django projects, Android-java, and Angular or React projects.
-- 🤔 I’m looking for help with advanced Javascript concepts.
-- 💬 Ask me about :snake: AL,python programming language, ERP's.
+- 🤔 AL fanatic.
+- 💬 Ask me about :snake: AL, C/AL,python programming language, Business Crentral and Odoo ERP's.
 - 📫 How to reach me: Twitter , LinkedIn
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Comedy is therapy.
+- ⚡ code.debug.decode
 
 
 ### Languages and Frameworks:
