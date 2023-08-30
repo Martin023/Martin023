@@ -13,9 +13,9 @@
 - 🔭 I’m currently working on Microsoft Business Central development. 
 - 🌱 I’m currently learning Cloud and DevOps engineering.
 
-- 👯 I’m looking to collaborate on Business Central Customisation and development, Django projects, Android-java, and Angular or React projects.
+- 👯 I’m looking to collaborate on Business Central Customisation,Intergartion and development, Django projects, Android-java, and Angular or React projects.
 - 🤔 AL fanatic.
-- 💬 Ask me about :snake: AL, C/AL,python programming language, Business Crentral and Odoo ERP's.
+- 💬 Ask me about :snake: AL, C/AL,python programming language, Business Central, and Odoo ERP's.
 - 📫 How to reach me: Twitter , LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ code.debug.decode
