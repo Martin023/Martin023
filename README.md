@@ -10,8 +10,8 @@
 ## A Fullstack developer.
 
 
-- 🔭 I’m currently working on Microsoft Business Central development. 
-- 🌱 I’m currently learning Cloud and DevOps engineering.
+- 🔭 I’m currently working on Microsoft Business Central/Navision development. 
+- 🌱 I’m currently learning React.
 
 - 👯 I’m looking to collaborate on Business Central Customisation,Intergartion and development, Django projects, Android-java, and Angular or React projects.
 - 🤔 Manchester.
