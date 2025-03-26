@@ -7,7 +7,7 @@
 - I am FullStack Software Developer who does ERP Development, creates websites and android applications. My tech-stack includes AL,C/AL,python,Devops,Javascript,React,Angular,Flask,Django and some other cool libraries and frameworks.
 
 
-## A Fullstack developer.
+## A Business Central/Fullstack Developer.
 
 
 - 🔭 I’m currently working on Microsoft Business Central/Navision development. 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Martin023&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Martin023&theme=dark)](https://git.io/streak-stats)
 </div>
 
  
